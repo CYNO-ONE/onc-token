@@ -1,0 +1,26 @@
+{
+  "name": "ONC Issuance card #1",
+  "symbol": "ONC",
+  "attributes": [],
+  "collection": {
+    "name": "ONC Issuance card",
+    "family": "ONC Issuance"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/CYNO-ONE/onc-token/refs/heads/main/nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "maxSupply": 0,
+    "creators": [
+      {
+        "address": "65tR7Q8xF3f4k61HXTfzjaYrTisijLFBDSUaixh3VYwj",
+        "share": 100
+      }
+    ]
+  },
+  "image": "https://raw.githubusercontent.com/CYNO-ONE/onc-token/refs/heads/main/nft.png"
+}
