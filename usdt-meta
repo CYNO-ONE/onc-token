@@ -1,0 +1,6 @@
+{
+  "name": "USDT DEMO",
+  "symbol": "USDT",
+  "description": "Fully reserved coin created by ONC group.",
+  "image": "https://raw.githubusercontent.com/CYNO-ONE/onc-token/refs/heads/main/icons8-tether-480.png"
+}
